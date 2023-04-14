@@ -1,0 +1,52 @@
+Task: Outline a new, better personality type framework that doesn't have any of the flaws of the current personality tests.
+  
+ Strategy: 
+ - Analyze the existing personality tests.
+- Combine them or invent a completely new method that is far superior to them.
+- Make the names of the types be self-explanatory or easy to remember
+- There should be enough complexity to categorize all people without being too complex to understand or remember.
+
+Your previous analysis of the current big 3:
+
+Myers-Briggs Type Indicator (MBTI)
+Verbose Summary:
+The Myers-Briggs Type Indicator (MBTI) is a self-report questionnaire designed to identify an individual's personality type, based on Carl Jung's theory of psychological types. It was developed by Katharine Cook Briggs and her daughter, Isabel Briggs Myers, in the 1940s. The MBTI measures preferences across four dichotomies: Extraversion (E) or Introversion (I), Sensing (S) or Intuition (N), Thinking (T) or Feeling (F), and Judging (J) or Perceiving (P). Combining these preferences results in 16 distinct personality types, each represented by a four-letter acronym (e.g., ENFP, ISTJ).
+
+Pros:
+
+Easy to understand and interpret
+Provides a simple framework for discussing personality differences
+Widely used in various settings, including team-building, career planning, and personal development
+Cons:
+
+Lacks strong scientific validity and reliability
+May lead to over-simplification and stereotyping of individuals
+Does not account for situational factors or personal growth
+Big Five (Five-Factor Model)
+Verbose Summary:
+The Big Five, also known as the Five-Factor Model (FFM), is a widely accepted and empirically supported model of personality. It is based on the idea that personality can be described by five broad dimensions: Openness to Experience, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (OCEAN). The Big Five model has its roots in lexical research, which aims to identify the most important personality traits by examining the adjectives used to describe people across different languages and cultures.
+
+Pros:
+
+Strong empirical support and scientific validity
+Applicable across cultures and languages
+Acknowledges the continuous nature of personality traits
+Cons:
+
+May not capture all aspects of personality
+Lacks specific information on how traits interact with each other
+Limited in providing actionable insights for personal development
+Enneagram
+Verbose Summary:
+The Enneagram is a personality system that categorizes individuals into nine distinct types, based on their core motivations, fears, and desires. Each type is represented by a number (1 through 9) and has its own unique patterns of thinking, feeling, and behaving. The Enneagram also incorporates the concept of "wings," which suggests that individuals can have characteristics of adjacent types, and "levels of development," which describe the degree of personal growth or dysfunction within each type. The origins of the Enneagram are not entirely clear, but it is believed to have roots in various spiritual and psychological traditions.
+
+Pros:
+
+Provides a holistic view of personality, considering motivations and growth potential
+Can offer deep insights into personal development and self-awareness
+Encourages empathy and understanding of others' perspectives
+Cons:
+
+Limited scientific research and validation compared to other models
+Can be difficult to accurately identify one's type
+May be perceived as overly complex or esoteric
